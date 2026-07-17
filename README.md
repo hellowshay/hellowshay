@@ -14,4 +14,4 @@ I used Html, Css, React Native, Expo, Type Script, C# Visual Basic to build them
 
 
 
-<img src="StudyBuddy" width="320" alt="StudyBuddy" /> 
+<img src="https://github.com/user-attachments/assets/83dec622-b37b-4e30-95fc-2e4238d879b4" width="320" alt="StudyBuddy" /> 
