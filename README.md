@@ -22,7 +22,10 @@ Below are some of the front-end applications I've built, featuring *StudyBuddy*,
 
 I used Html, Css, React Native, Expo, Type Script, C# Visual Basic to build them  
 
-<img width="400" height="225" alt="SmartStock" src="https://github.com/user-attachments/assets/3467be4c-0b4b-4f1b-aa5b-62135823398c" />
+
+
+<img width="400" height="225" alt="SmartStock RMT" src="https://github.com/user-attachments/assets/cac0fb3d-c2e3-4ceb-9fc0-d7fd7ba35044" />
+
 
 <img width="400" height="225" alt="Smart Parking System" src="https://github.com/user-attachments/assets/2b484dc7-2b3c-4e63-b847-9e0c1dee0353" />
 
