@@ -17,7 +17,7 @@ While my core dream and career focus lean heavily toward Software Quality Assura
 ---
 
 ## 📱 Featured Projects
-Below are some of the front-end applications I've built, featuring *StudyBuddy*, *SmartStock*, and *RMT Marketing System*.
+Below are some of the front-end applications I've built, featuring *StudyBuddy*, *Parking system*, and *RMT Marketing System*.
 
 
 I used Html, Css, React Native, Expo, Type Script, C# Visual Basic to build them  
